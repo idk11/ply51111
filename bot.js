@@ -22,7 +22,7 @@ KiNg66S.on('message', message => {
 
   var argresult = args.join(' ');
 
-  if (message.author.id !== "350968179927023619") return;
+  if (message.author.id !== "441704732344582146") return;
 
   
 
